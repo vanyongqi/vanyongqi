@@ -1,10 +1,10 @@
 ### Hi there 👋，It‘s me，Yongqi.
 
-
+<img src="https://profile-counter.glitch.me/vanyongqi/count.svg">
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyongqi&layout=compact&theme=tokyonight" >
-<img src="https://profile-counter.glitch.me/vanyongqi/count.svg">
+ <!-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyongqi&layout=compact&theme=tokyonight" >
+
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanyongqi&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
