@@ -1,4 +1,16 @@
-
+<style>
+ .content-box{
+   display:flex;
+  justify-content:space-between;
+ }
+ .content-left{
+  width:50%;
+ }
+ .content-right{
+  width:50%;
+ }
+ 
+ </style>
 <div align="center">
  <h2 >Hi there 👋，It‘s me，Yongqi.       ➡️  ➡️ Iterator: <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">   🚀 </h2>
 </div>
@@ -8,10 +20,34 @@
   <img height="160px"   src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
 </div>
 
+<table>
+ <tr>
+  <td>
+   Here are some ideas to get you started:
+
+   - 🔭 I’m currently working on ...
+   - 🌱 I’m currently learning ...
+   - 👯 I’m looking to collaborate on ...
+   - 🤔 I’m looking for help with ...
+   - 💬 Ask me about ...
+   - 📫 How to reach me: ...
+   - 😄 Pronouns: ...
+   - ⚡ Fun fact: ...
+  </td>
+  <td>
+   <div>
+  <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style=“display:block;”>
+ </div>
+ <div>
+<img src=https://stats.justsong.cn/api/juejin?id=39344890341039387&theme=transparent" style="display:block;">
+ </div>
+  </td>
+ </tr>
+</table>
 
 <div>
- <div >
-<div style float=left>
+ <div class="content-box">
+<div style float=left class="content-left">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -23,7 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 </div >
-<div style float=left> 
+<div style float=left class="content-right"> 
  <div>
   <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style=“display:block;”>
  </div>
