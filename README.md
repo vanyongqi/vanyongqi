@@ -5,8 +5,8 @@
 </div>
 
 <div >
+   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyongqi&layout=compact"  >
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyongqi&layout=compact"  >
 </div>
 
 [![Yongqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanyongqi&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
