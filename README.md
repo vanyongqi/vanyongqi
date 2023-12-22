@@ -3,7 +3,7 @@
  <h2 >Hi there 👋，It‘s me，Yongqi.       <span>YOU ARE THE NO： <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">  IN HERE. 🚀 </h2>
 </div>
 
-<div align="center"  >
+<div   >
    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyongqi&layout=compact"  >
   <img height="160px"   src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
 </div>
