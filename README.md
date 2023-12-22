@@ -3,18 +3,19 @@
  <h2 >Hi there 👋，It‘s me，Yongqi.       <span>YOU ARE THE NO： <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">  IN HERE. 🚀 </h2>
 </div>
 
-<div >
+<div align="center"  >
    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyongqi&layout=compact"  >
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
+  <img height="160px"   src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
 </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524"> </div>
-<div align="center"> <img src="https://stats.justsong.cn/api/leetcode/?username=chase_zmt&cn=true&theme=transparent"> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524"> 
+<img src=https://stats.justsong.cn/api/juejin?id=3934489034109387&theme=transparent">
+</div>
+
 
 <div align="center"> <img src="https://raw.githubusercontent.com/vanyongqi/vanyongqi/output/github-contribution-grid-snake.svg"> </div>
 
 [![Yongqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vanyongqi&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 
