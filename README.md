@@ -1,6 +1,6 @@
 
-<div>
- <h2 >Hi there 👋，It‘s me，Yongqi.       <span>YOU ARE THE NO： <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">  IN HERE. 🚀 </h2>
+<div align="center">
+ <h2 >Hi there 👋，It‘s me，Yongqi.       ➡️  ➡️ Iterator: <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">   🚀 </h2>
 </div>
 
 <div   >
@@ -8,9 +8,28 @@
   <img height="160px"   src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
 </div>
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524"> 
+
+<div>
+<div style float=left>
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+</div >
+<div align="right"> 
+<img src="https://stats.justsong.cn/api/csdn?id=qq_41722524"> 
 <img src=https://stats.justsong.cn/api/juejin?id=3934489034109387&theme=transparent">
 </div>
+</div>
+
+
+
 
 
 <div align="center"> <img src="https://raw.githubusercontent.com/vanyongqi/vanyongqi/output/github-contribution-grid-snake.svg"> </div>
@@ -26,14 +45,5 @@
 
 **vanyongqi/vanyongqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
