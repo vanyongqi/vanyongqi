@@ -7,6 +7,7 @@
 <div >
    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanyongqi&layout=compact"  >
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent" >
+![snake](https://raw.githubusercontent.com/vanyongqi/vanyongqi/output/github-contribution-grid-snake.svg)
 
 
 </div>
