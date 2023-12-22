@@ -1,7 +1,7 @@
 
 <div>
  <h2 >Hi there 👋，It‘s me，Yongqi.</h2>
-  <h2 > YOU ARE THE NO： <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">  IN MY PAGE. 🚀 </h2>
+  <h2 > YOU ARE THE NO： <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">  IN HERE. 🚀 </h2>
 </div>
 
 <div >
