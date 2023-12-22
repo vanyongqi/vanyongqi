@@ -33,7 +33,6 @@
 </table>
   <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style align="right">
 
-<img src="https://stats.justsong.cn/api/juejin?id=39344890341039387&theme=transparent" style align="right">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
