@@ -1,6 +1,7 @@
 ### Hi there 👋
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=vanyongqi" /> </div>
-![](https://github-readme-stats.vercel.app/api?username=vanyongqie&show_icons=true&theme=transparent)
+
+
+![](https://github-readme-stats.vercel.app/api?username=vanyongqi&show_icons=true&theme=transparent)
 
 
 **vanyongqi/vanyongqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
