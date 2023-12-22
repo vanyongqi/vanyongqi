@@ -1,16 +1,3 @@
-<style>
- .content-box{
-   display:flex;
-  justify-content:space-between;
- }
- .content-left{
-  width:50%;
- }
- .content-right{
-  width:50%;
- }
- 
- </style>
 <div align="center">
  <h2 >Hi there 👋，It‘s me，Yongqi.       ➡️  ➡️ Iterator: <img src="https://profile-counter.glitch.me/vanyongqi/count.svg">   🚀 </h2>
 </div>
@@ -44,10 +31,9 @@
   </td>
  </tr>
 </table>
+  <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style align="right">
 
-<div>
- <div class="content-box">
-<div style float=left class="content-left">
+<img src="https://stats.justsong.cn/api/juejin?id=39344890341039387&theme=transparent" style align="right">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -58,17 +44,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</div >
-<div style float=left class="content-right"> 
- <div>
-  <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style=“display:block;”>
- </div>
- <div>
-<img src=https://stats.justsong.cn/api/juejin?id=39344890341039387&theme=transparent" style="display:block;">
- </div>
-</div>
-<div>
-</div>
+
+
+
 
 
 
