@@ -9,7 +9,7 @@
 
   <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style align="right">
 
-Here are some ideas to get you started:
+Abount me 💧:
 
 - 🔭 I’m currently working on a tech-compmny as internship.
 - 🌱 I’m currently learning  Golang .
