@@ -14,7 +14,7 @@
   <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style align="right">
 Abount me 💧:
 
-- 🔭 I’m currently working on a tech-compmny as internship.
+- 🔭 I’m currently working on a tech-company as internship.
 - 🌱 I’m currently learning  Golang .
 - 👯 I’m looking to collaborate on backend field.
 - 🤔 I’m looking for help with frontend.
