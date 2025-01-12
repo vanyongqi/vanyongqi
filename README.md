@@ -14,8 +14,8 @@
   <img src="https://stats.justsong.cn/api/csdn?id=qq_41722524" style align="right">
 <h4>Abount me💧:</h4>
 
-- 🔭 I’m currently working on a tech-company as internship.
-- 🔭 在一家公司充当牛马实习生.
+- 🔭 I’m currently working on a tech-company as go engineer.
+- 🔭 在一家公司充当牛马后端.
 - 🌱 I’m currently learning  Golang .
 - 🌱 在学Go语言.
 - 👯 I’m looking to collaborate on backend field.
